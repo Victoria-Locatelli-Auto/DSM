@@ -24,9 +24,9 @@ def permitir_suspensao():
 
 # ==================== CONFIGURAÇÕES ==========================
 
-EMAIL_REMETENTE = "victoria.santos@mcmtocantins.com"
-SENHA_EMAIL = "jpnc sddr mqkb oyia"  # ⚠ Substitua aqui pela senha de aplicativo gerada no Outlook!
-EMAIL_DESTINATARIO = ["joao.antunes@mcmtocantins.com", "natalia.sobral@mcmtocantins.com","daniel@teddi.com.br"]
+EMAIL_REMETENTE = "@@@@@"
+SENHA_EMAIL = "@@@@@"  # ⚠ Substitua aqui pela senha de aplicativo gerada no Outlook!
+EMAIL_DESTINATARIO = ["@@@@@"]
 SMTP_SERVIDOR = "smtp.gmail.com"
 SMTP_PORTA = 587
 
